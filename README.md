@@ -2,7 +2,7 @@
 ## Computer Methods in Physics I 
 Verbatim Course Description: "Number systems and number representations; overview of computer hardware and software; computer programming methods; numerical analysis; research data processing; introduction to numerical simulation and modeling"
 
-Contains modules tackled from the Applied Physics 155 class under Ma'am Reinabelle Reyes, PhD and Sir Rene Principe Jr:
+Contains modules tackled from the Applied Physics 155 class under Ma'am Reinabelle Reyes, PhD and Sir Rene Principe Jr on:
 1. Python Programming for Physicists
 2. Integrals and Derivatives
 3. Solutions of Linear and Nonlinear Equations
